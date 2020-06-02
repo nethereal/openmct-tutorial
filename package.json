@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nasa/openmct-tutorial.git"
+    "url": "git+https://github.com/nethereal/openmct-tutorial.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nasa/openmct-tutorial/issues"
+    "url": "https://github.com/nethereal/openmct-tutorial/issues"
   },
-  "homepage": "https://github.com/nasa/openmct-tutorial#readme",
+  "homepage": "https://github.com/nethereal/openmct-tutorial#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-ws": "^4.0.0",
-    "openmct": "https://github.com/nasa/openmct.git",
+    "openmct": "https://github.com/nethereal/openmct.git",
     "ws": "^6.1.2"
   }
 }
